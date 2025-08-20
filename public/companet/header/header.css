@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 55px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}

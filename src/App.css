@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.conta{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 70px 0;
+}
+button{
+    padding: 16px 48px;
+    background-color: white;
+}
+.asd{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
